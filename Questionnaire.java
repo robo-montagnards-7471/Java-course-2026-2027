@@ -20,3 +20,4 @@ public class Questionnaire {
     System.out.print("Bonjour "+variable+", tu as "+(2026-variable2)+" ans");
     }
 }
+//alllllo
