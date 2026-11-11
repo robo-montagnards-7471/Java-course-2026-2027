@@ -10,7 +10,7 @@ public class Questionnaire {
         Scanner sc = new Scanner(System.in);
     
 <<<<<<< HEAD
-    System.out.print("que est ton prenom?");  // Bonjour de Florence
+    System.out.print("que est ton prenom?");  // Bonjour de Florence encore 
     String variable = sc.next();
 =======
         System.out.print("que est ton prenom?");
