@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Questionnaire {
     public static void main(String[] args) {
     Questionnaire quest = new Questionnaire ();
