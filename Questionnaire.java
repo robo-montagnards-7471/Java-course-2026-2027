@@ -9,7 +9,7 @@ public class Questionnaire {
         Questionnaire quest = new Questionnaire ();
         Scanner sc = new Scanner(System.in);
     
-    System.out.print("que est ton prenom?");
+    System.out.print("que est ton prenom?");  // Bonjour de Florence
     String variable = sc.next();
     
     System.out.print("quand est tu ne?");
