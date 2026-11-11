@@ -8,8 +8,13 @@ public class Questionnaire {
         Questionnaire quest = new Questionnaire ();
         Scanner sc = new Scanner(System.in);
     
+<<<<<<< HEAD
+    System.out.print("que est ton prenom?");  // Bonjour de Florence
+    String variable = sc.next();
+=======
         System.out.print("que est ton prenom?");
         String variable = sc.next();
+>>>>>>> 1b92b04ada4912a99331bb4a65db9678ec97e1a4
     
         System.out.print("quand est tu ne?");
         int variable2 = sc.nextInt();
